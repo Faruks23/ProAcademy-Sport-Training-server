@@ -1,0 +1,102 @@
+[
+  {
+    "className": "Basketball Fundamentals",
+    "classImage": "https://example.com/class-image-1.jpg",
+    "instructorName": "John Doe",
+    "instructorEmail": "john.doe@example.com",
+    "availableSeats": 220,
+    "price": 99.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  },
+  {
+    "className": "Football Skills Training",
+    "classImage": "https://example.com/class-image-2.jpg",
+    "instructorName": "Jane Smith",
+    "instructorEmail": "jane.smith@example.com",
+    "availableSeats": 315,
+    "price": 79.99,
+    "status": "pending",
+     "StudentEnroll": 0
+  },
+  {
+    "className": "Tennis for Beginners",
+    "classImage": "https://example.com/class-image-3.jpg",
+    "instructorName": "David Johnson",
+    "instructorEmail": "david.johnson@example.com",
+    "availableSeats": 225,
+    "price": 89.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  },
+  {
+    "className": "Golf Swing Techniques",
+    "classImage": "https://example.com/class-image-4.jpg",
+    "instructorName": "Emily Wilson",
+    "instructorEmail": "emily.wilson@example.com",
+    "availableSeats": 130,
+    "price": 149.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  },
+  {
+    "className": "Swimming Lessons",
+    "classImage": "https://example.com/class-image-5.jpg",
+    "instructorName": "Michael Brown",
+    "instructorEmail": "michael.brown@example.com",
+    "availableSeats": 210,
+    "price": 129.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  },
+  {
+    "className": "Yoga and Meditation",
+    "classImage": "https://example.com/class-image-6.jpg",
+    "instructorName": "Olivia Davis",
+    "instructorEmail": "olivia.davis@example.com",
+    "availableSeats": 218,
+    "price": 109.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  },
+  {
+    "className": "Boxing Fitness Training",
+    "classImage": "https://example.com/class-image-7.jpg",
+    "instructorName": "Daniel Wilson",
+    "instructorEmail": "daniel.wilson@example.com",
+    "availableSeats": 422,
+    "price": 139.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  },
+  {
+    "className": "Athletic Conditioning",
+    "classImage": "https://example.com/class-image-8.jpg",
+    "instructorName": "Sophia Martin",
+    "instructorEmail": "sophia.martin@example.com",
+    "availableSeats": 123,
+    "price": 119.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  },
+  {
+    "className": "Cycling for Fitness",
+    "classImage": "https://example.com/class-image-9.jpg",
+    "instructorName": "William Johnson",
+    "instructorEmail": "william.johnson@example.com",
+    "availableSeats": 1623,
+    "price": 99.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  },
+  {
+    "className": "Martial Arts Training",
+    "classImage": "https://example.com/class-image-10.jpg",
+    "instructorName": "Sophie Anderson",
+    "instructorEmail": "william.johnson@example.com",
+    "availableSeats": 1623,
+    "price": 99.99,
+    "status": "pending",
+    "StudentEnroll": 0
+  }
+]
